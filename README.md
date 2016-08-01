@@ -1,4 +1,4 @@
-# hurtworld-rcon
+# Hurtworld Rcon Tool
 Hurtworld Rcon Tool for executing commands without joining game.
 This tool must be runned from server's machine(at least until devs implement some sort of real rcon thing)
 
